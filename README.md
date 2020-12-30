@@ -13,3 +13,7 @@
 - 💬 Ask me about javascript
 - 📫 How to reach me: [my Linkedin Profile](https://www.linkedin.com/in/shiwangi-garg-144ab9167/)
 - ⚡ Fun fact: I went on cyling trip for the first time and completed 50kms
+
+</br>
+
+![](https://komarev.com/ghpvc/?username=shiwangi20)
