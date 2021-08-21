@@ -3,8 +3,8 @@
 
 ## 📊 My GitHub Stats
 
-<img align="center" alt="Shiwangi Garg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiwangi20&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=default" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangi20&theme=default&hide_border=true&layout=compact" />
+<img align="center" alt="Shiwangi Garg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiwangi20&show_icons=true&include_all_commits=true&theme=dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangi20&theme=dark&layout=compact" />
 
 - 🔭 I’m currently working on web-development
 - 🌱 I’m currently learning javascript and react
