@@ -11,9 +11,10 @@
 - 👯 I’m looking to collaborate on react projects
 - 🤔 I’m looking for help with full-stack development
 - 💬 Ask me about javascript
-- 📫 How to reach me: [my Linkedin Profile](https://www.linkedin.com/in/shiwangi-garg-144ab9167/)
 - ⚡ Fun fact: I went on cyling trip for the first time and completed 50kms
 
-</br>
+### Connect with me:
+<a href="https://www.linkedin.com/in/shiwangi-garg-144ab9167/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/shiwangi20/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 
 ![](https://komarev.com/ghpvc/?username=shiwangi20)
