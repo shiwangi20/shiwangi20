@@ -4,7 +4,7 @@
 ## 📊 My GitHub Stats
 
 <img align="center" alt="Shiwangi Garg's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shiwangi20&show_icons=true&include_all_commits=true&theme=dark" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangi20&theme=dark&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiwangi20&theme=dark&layout=compact&langs_count=8" />
 
 - 🔭 I’m currently working on web-development
 - 🌱 I’m currently learning javascript and react
